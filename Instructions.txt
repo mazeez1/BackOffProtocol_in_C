@@ -1,0 +1,5 @@
+There are two type to run this code.
+1. Run Source.cpp in your desireable IDE.
+2. Copy code from FinalCode.txt file and paste in your IDE.
+
+Note: Do not need to create any txt file, this code generate file automatically.
